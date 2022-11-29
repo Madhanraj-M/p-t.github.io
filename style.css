@@ -173,20 +173,23 @@ button a{
 /* media query for screen*/
 @media screen and (max-width:1200px) {
       .main{
+        width: 1200px;
         height: 150vh;
       }
        .collname{
         width: 100%;
         text-align: center;
+      
        }
        .logo{
         width: 40%;
+        margin-left: 350px;
         
        }
        .form{
         width: 250px;
         height: 310px;
-        margin-left: -1000px;
+        margin-left: -620px;
         margin-top: 500px;
         
        }
